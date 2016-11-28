@@ -4,7 +4,7 @@ Installing Instructions:
 
 I made this java servlet using following:
 ###a) Apache Tomcat v8.0 (It will run on Version 7.0 as well)
-####b) Eclipse IDE for Java EE
+###b) Eclipse IDE for Java EE
 
 -------------------
 
