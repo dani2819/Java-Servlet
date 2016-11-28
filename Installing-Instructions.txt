@@ -1,0 +1,20 @@
+Installing Instructions:
+I made this java servlet using following:
+a) Apache Tomcat v8.0 (It will run on Version 7.0 as well)
+b) Eclipse IDE for Java EE
+-------------------
+GENERAL INSTALLING INSTRUCTIONS:
+1. Open the zip file and extract it into workspace.
+2. Open the Project in Eclipse IDE, and go to window>Prefrences>Server>Runtime Environment, Add Apache Tomcat v8.0 there.
+3. Go to File, Create->New Server, in New Server Wizard Add the servlet "WorldLengthCounter"
+4. Go to window>show view> servers
+5. In server dialog box, right click on it and start it.
+6. Now go to web browser, enter the url: http://localhost:8080/WordLengthCounter/WordCounter
+
+--------------------
+IMPORTANT:
+MINOR CHANGES IN JAVA CODE:
+I write the HTML text into .txt file which i saved in my computer. So you have to go on Line:76 and 98 of WordCounter.java and change the directory according to your username.
+---------------------------------
+NOTE: I also placed "demo.doc" file so that you can also show the snapshots of the working project.
+
