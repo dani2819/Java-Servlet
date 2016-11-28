@@ -4,12 +4,11 @@ a) Apache Tomcat v8.0 (It will run on Version 7.0 as well)
 b) Eclipse IDE for Java EE
 -------------------
 GENERAL INSTALLING INSTRUCTIONS:
-1. Open the zip file and extract it into workspace.
-2. Open the Project in Eclipse IDE, and go to window>Prefrences>Server>Runtime Environment, Add Apache Tomcat v8.0 there.
-3. Go to File, Create->New Server, in New Server Wizard Add the servlet "WorldLengthCounter"
-4. Go to window>show view> servers
-5. In server dialog box, right click on it and start it.
-6. Now go to web browser, enter the url: http://localhost:8080/WordLengthCounter/WordCounter
+1. Open the Project in Eclipse IDE, and go to window>Prefrences>Server>Runtime Environment, Add Apache Tomcat v8.0 there.
+2. Go to File, Create->New Server, in New Server Wizard Add the servlet "WorldLengthCounter"
+3. Go to window>show view> servers
+4. In server dialog box, right click on it and start it.
+5. Now go to web browser, enter the url: http://localhost:8080/WordLengthCounter/WordCounter
 
 --------------------
 IMPORTANT:
